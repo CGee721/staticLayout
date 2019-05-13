@@ -1,0 +1,89 @@
+#background{
+    color: black
+}
+
+#header{
+    background: black;
+    color: white;
+    overflow: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+body {
+    font-family: 'Bebas Neue W01 Regular';
+    letter-spacing: 1px;
+}
+li {
+    display: inline-block;
+}
+li {float: left;}
+
+.header {
+    float: left;
+    display: block;
+    color: red;
+    padding: 20px;
+    margin-right: 25px;
+    font-size: 2.5em;
+    margin-block-start: 0.0em;
+    margin-block-end: 0.0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    width: 15;
+    text-align: right;
+}
+.navbar{
+    list-style: none;
+    float: left;
+    padding: 8px;
+    display: block;
+    color: white;
+    
+}
+.navbar2{
+    float: right;
+    padding: 8px;
+    display: block;
+    color: white
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color:red;
+  }
+
+  #largeImage {
+      padding: 250px 20px;
+    background: url(https://i2.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2019/01/oc4vjaskfckgfrewxcjc.png?resize=720%2C405) no-repeat left center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.Play{
+    display: block;
+    padding: 12px 20px;
+    color: white;
+    
+}
+
+.MyList{
+    display: block;
+    padding: 10px 18px;
+    color: white
+    
+}
+li{
+    display: inline
+}
